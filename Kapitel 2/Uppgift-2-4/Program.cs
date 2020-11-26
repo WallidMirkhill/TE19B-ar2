@@ -16,7 +16,7 @@ namespace Uppgift_2_4
 
             // Räkna ut summan och skriv ut
             int summa = tal1 + tal2;
-            Console.writeline("Summan = " + summa);
+            Console.Writeline("Summan = " + summa);
 
             // Räkna ut produkten och skriv ut 
             int produkt = tal1 + tal2;
